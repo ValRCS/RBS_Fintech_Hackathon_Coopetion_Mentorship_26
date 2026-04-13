@@ -1,6 +1,8 @@
 # RBS_Fintech_Hackathon_Coopetion_Mentorship_26
 Mentoring Riga Business School FinTech hackathon participants
 
+ej.uz/syvk
+
 ## Sponsors
 
 ![EU](https://finance.rbs.lv/wp-content/uploads/sites/15/2026/01/FINANSE-ESNEXTNAP-400x183.png)
