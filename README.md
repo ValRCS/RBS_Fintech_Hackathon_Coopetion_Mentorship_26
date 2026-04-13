@@ -1,7 +1,9 @@
 # RBS_Fintech_Hackathon_Coopetion_Mentorship_26
 Mentoring Riga Business School FinTech hackathon participants
 
-![Baltic Finance Center](https://finance.rbs.lv/wp-content/uploads/sites/15/2023/06/BFC_logo_white-400x204.png)
+## Sponsors
+
+![Sponsors]([https://finance.rbs.lv/wp-content/uploads/sites/15/2023/06/BFC_logo_white-400x204.png](https://finance.rbs.lv/wp-content/uploads/sites/15/2026/01/Signature-BFC_RBS_logo_black.pdf-400x79.png))
 
 ## FinQuest Coopetition 2026
 
