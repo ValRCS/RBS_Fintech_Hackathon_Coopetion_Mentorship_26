@@ -1,0 +1,2 @@
+# RBS_Fintech_Hackathon_Coopetion_Mentorship_26
+Mentoring Riga Business School FinTech hackathon participants
